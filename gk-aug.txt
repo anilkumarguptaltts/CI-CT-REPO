@@ -1,0 +1,10 @@
+http://localhost/almudeer-admin-dev/lpo_payment/byvendor/Mg==
+http://localhost/almudeer-admin-dev/lpo_payment/add/MQ==
+
+Task :
+1) save data in database base, on basis of invoice no
+2)check (invoiceno + vendor_id) exist in database if exist then update otherwiase save
+3)listing data in view
+
+
+https://www.bankersadda.com/current-affairs-2022/#Current_Affairs_August_2022_Daily_Current_Affairs_Update_Daily_Quiz
