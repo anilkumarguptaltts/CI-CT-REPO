@@ -1,0 +1,43 @@
+
+5. service code add in jquery add new tab in item
+6. lpo finilize option
+7. Lpo Vendor Listing staus show Deactive ????
+8. approved status confusion
+10. EDIT / ACTIVE - INACTIVE button hide
+11. grsr account code
+GR/SR PURCHASE ORDER -> GR/SR 
+P.O Number -> GR/SR Number
+Supplier , Contact No., Email-ID -> vendor ki details all preview
+SHIP TO remove
+Approved by: -> subadmin name ( getapprovers id se name lena h)
+SIGNED PO -> jis lpo ko jiske liye assign kiya h uska name aana h
+
+
+
+=================================DONE HAI=========================
+1. lpo vendor deactivate option
+ACTIVE - INACTIVE show in GR/SR (already)
+ACTIVE - INACTIVE show in invoice (already)
+2. lpo vendor cancel button url //
+3. lpo_view back button //
+9. back button url issue//
+4. Expense Head Listing edit / delete option
+
+
+===============================24/08/2022=====================
+
+[6:42 PM, 8/24/2022] Himanshu: of image.
+[6:43 PM, 8/24/2022] Himanshu: invoice->view->preview.php (DONE)
+[6:44 PM, 8/24/2022] Himanshu: view -> preview , otherpreview (DONE)
+[6:45 PM, 8/24/2022] Himanshu: use this Service charge invoice>>click on send invoice>>no need to open invoice again (incase of preview it's fine but no in case of send) (checked)
+[6:46 PM, 8/24/2022] Himanshu: 4. Add invoice>>frequency by default should be selected yearly (DONE)
+[6:47 PM, 8/24/2022] Himanshu: http://localhost/almudeer-admin-dev/invoice/add
+[6:48 PM, 8/24/2022] Himanshu: 5. Add invoice>>adjustment and additional charges value should be Zero(0)by default and make it non mandatory (DONE)
+[6:48 PM, 8/24/2022] Himanshu: db se set default value n not required
+
+[6:45 PM, 8/24/2022] Himanshu: 3. invoice & manual payment email is not coming
+
+C:\xampp\apache\bin\curl-ca-bundle
+DB-> invoice/invoice folder
+invoice->view->preview.php
+view -> preview , otherpreview
